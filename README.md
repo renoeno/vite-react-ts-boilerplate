@@ -1,6 +1,6 @@
 # Vite | React | Typescript | Docker | Husky Boilerplate
 
-React + Typescript + Docker boilerplate created with Vite.
+React + Typescript + Docker + Husky boilerplate created with Vite.
 
 To locally install your application, use:
 ```
